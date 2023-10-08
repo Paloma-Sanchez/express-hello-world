@@ -37,6 +37,7 @@ const html = `
         font-family: neo-sans;
         font-weight: 700;
         font-size: calc(62rem / 16);
+        color: red;
       }
       body {
         background: white;
